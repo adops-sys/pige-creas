@@ -1,0 +1,7 @@
+streamlit==1.38.0
+Pillow==11.0.0
+imageio==2.35.1
+apng==0.3.4
+pandas==2.2.2
+openpyxl==3.1.5
+numpy==2.1.2
